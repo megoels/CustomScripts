@@ -1,0 +1,18 @@
+{
+  "name": "queuejenkins",
+  "version": "1.0.1",
+  "description": "",
+  "main": "queuejenkinsjob.js",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "command-line-args": "^4.0.7",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "request": "^2.65.0",
+    "shelljs": "^0.7.8"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.43",
+    "@types/q": "^1.0.5"
+  }
+}
