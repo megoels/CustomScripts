@@ -6,8 +6,8 @@
 	- update the registry permanently in the config
 		- npm config set registry http://registry.npmjs.org 
 	- if you are behind proxy do:
-		- npm config set proxy "http://proxy server:port" 
-		- npm config set https-proxy "https://proxy server:port" 
+		- npm config set proxy "http://proxy_server:port" 
+		- npm config set https-proxy "https://proxy_server:port" 
 3. Run the command "npm i" (run it on the scripts folder "JenkinsQueueJob", this command will create folder named "node_modules").
 4. Run the script with the node tool for example: "C:\Program Files\nodejs\node.exe" queuejenkinsjob.js --help
 
